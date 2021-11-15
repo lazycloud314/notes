@@ -120,6 +120,14 @@
 <node TEXT="有限/无限" ID="ID_691723532" CREATED="1636968082974" MODIFIED="1636968097060"/>
 </node>
 </node>
+<node TEXT="示例: c语言" ID="ID_703798661" CREATED="1636969083918" MODIFIED="1636969103617">
+<node TEXT="\latex \Sigma=\{a,b,...,z, A, B, ..., Z, 0, 1, ...9, +, -, ...\}" ID="ID_1485320851" CREATED="1636969104516" MODIFIED="1636969156024"/>
+<node TEXT="c language: 所有有效的string" ID="ID_1605810855" CREATED="1636969325356" MODIFIED="1636969351791">
+<node TEXT="如何判断有效？" ID="ID_928014648" CREATED="1636969367719" MODIFIED="1636969375048"/>
+</node>
+<node TEXT="如何判断string S是否在language L 中" ID="ID_23869475" CREATED="1636969361926" MODIFIED="1636969399516"/>
+</node>
+<node TEXT="对于infinite language, 如何找到一个有限的representation,用于判断一个string是否属于这个language" ID="ID_1715471960" CREATED="1636970578835" MODIFIED="1636970676986"/>
 </node>
 </node>
 </node>
